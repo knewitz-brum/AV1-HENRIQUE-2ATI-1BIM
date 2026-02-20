@@ -1,0 +1,7 @@
+body { font-family: sans-serif; display: flex; justify-content: center; padding: 20px; }
+.container { width: 100%; max-width: 400px; }
+#todo-form { display: flex; gap: 10px; }
+input { flex: 1; padding: 8px; }
+.error-message { color: red; font-size: 0.9rem; min-height: 20px; margin-top: 5px; }
+ul { list-style: none; padding: 0; margin-top: 20px; }
+li { padding: 10px; border-bottom: 1px solid #ddd; background: #f9f9f9; margin-bottom: 5px; }
